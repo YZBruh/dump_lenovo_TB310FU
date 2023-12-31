@@ -1,0 +1,10 @@
+cn.wps.moffice_eng
+com.tblenovo.soundrecorder
+com.zui.gallery
+com.android.calendar
+com.android.mms
+com.android.calculator2
+com.android.music
+com.android.dialer
+com.android.contacts
+io.moreless.tide

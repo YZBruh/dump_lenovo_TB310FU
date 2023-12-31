@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <PlatformWhitelist>
+        <App1>com.ss.android.ugc.aweme</App1>
+        <App2>com.baidu.searchbox</App2>
+    </PlatformWhitelist>
+</configuration>

@@ -1,0 +1,12 @@
+service bootanim /system/bin/bootanimation
+    class core animation
+    user graphics
+    group graphics audio
+    disabled
+    oneshot
+    ioprio rt 0
+    task_profiles MaxPerformance
+
+# Add by hao.zhang for PINE-18  Date:20220805
+on property:persist.sys.boot_start=1
+	start bootanim

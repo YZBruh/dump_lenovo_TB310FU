@@ -1,0 +1,8 @@
+<permissions>
+    <privapp-permissions package="com.tblenovo.lenovowhatsnew">
+        <permission name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+        <permission name="android.permission.WRITE_SETTINGS"/>
+        <permission name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    </privapp-permissions>
+</permissions>

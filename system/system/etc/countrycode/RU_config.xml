@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <config name="regional_specialty_apk" value="YandexBrowser;YandexSearch;LenovoRUApps;AppNext;GooglePay;PlayGames;Opera;PreinstallProvider"/>
+    <!-- MAPLE-3916, huangyufei.ts, modify, 20220120, add FM Radio in remove_apk of RU -->
+    <!-- MAPLE-6826, huangyufei.ts, modify, 20220124, add AmazonMusic Radio in remove_apk of RU -->
+    <config name="remove_apk" value="Hangouts;BingWallpaper;SquidNote;Keep;Translation;FMRadio;MapleRadio;AmazonMusic;WPSOfficeRow;NetflixStub"/>
+    <config name="timezone" value="Europe/Moscow"/>
+    <config name="MmsConfigMaxSize" value="1024000"/>
+    <config name="language" value="ru_RU"/>
+    <config name="def_time_12_24" value="yes"/>
+    <config name="date_formate_dd_mm_yyyy" value="yes"/>
+    <config name="data_traffic" value="yes"/>
+</list>
+

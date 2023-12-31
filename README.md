@@ -1,0 +1,20 @@
+## TB310FU-user 12 SP1A.210812.016 TB310FU_USR_S000549_2307171119_mp1V1457_ROW release-keys
+- Manufacturer: lenovo
+- Platform: mt6768
+- Codename: TB310FU
+- Brand: Lenovo
+- Flavor: sys_mssi_t_64_cn_wifi-user
+- Release Version: 12
+- Kernel Version: 4.19.191
+- Id: SP1A.210812.016
+- Incremental: TB310FU_USR_S000549_2307171119_mp1V1457_ROW
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Lenovo/TB310FU/TB310FU:12/SP1A.210812.016/S000549_230717_ROW:user/release-keys
+- OTA version: 
+- Branch: TB310FU-user-12-SP1A.210812.016-TB310FU_USR_S000549_2307171119_mp1V1457_ROW-release-keys
+- Repo: lenovo_tb310fu_dump

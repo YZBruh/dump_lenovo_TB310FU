@@ -1,0 +1,13 @@
+com.tblenovo.soundrecorder
+tw.com.parenting.storytime
+com.netflix.mediaclient
+com.lenovo.tab_m9
+com.tblenovo.lenovoruapps
+com.google.android.apps.books
+com.google.android.play.games
+com.google.android.apps.youtube.kids
+com.google.android.apps.kids.home
+cn.wps.moffice_eng
+io.moreless.tide
+com.opera.browser
+com.opera.preinstall
